@@ -5,7 +5,7 @@ const scrapYts = require('./src/yts');
 const scrapPirateBay = require('./src/pirateBay');
 const scrapTorLock = require('./src/torLock');
 const scrapEzTVio = require('./src/ezTV');
-const torrentGalaxy = require('./src/srcGalaxy');
+const torrentGalaxy = require('./src/torrentGalaxy');
 const combo = require('./src/COMBO');
 const rarbg = require('./src/rarbg');
 const ettvCentral = require('./src/ettv');
@@ -15,8 +15,8 @@ const bitSearch = require('./src/bitSearch');
 const glodls = require('./src/gloTorrents');
 const magnet_dl = require('./src/magnet_dl');
 const limeTorrent = require('./src/limeTorrent');
-const torrentFunk = require('./src/srcFunk');
-const torrentProject = require('./src/srcProject');
+const torrentFunk = require('./src/torrentFunk');
+const torrentProject = require('./src/torrentProject');
 
 
 const app = express();
